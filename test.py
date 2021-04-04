@@ -1,3 +1,5 @@
+import pytest
+
 from chess import polyglot
 from chess import variant
 import chess
