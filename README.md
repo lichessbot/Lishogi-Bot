@@ -8,7 +8,7 @@ Engine communication code taken from https://github.com/TheYoBots/Lishogi-Bot by
 
 ### Shogi Engine
 
-- Fairy Stockfish 11.2 POPCNT
+- Fairy Stockfish 13 POPCNT + SSE41
 
 ### Heroku Buildpack
 
@@ -21,7 +21,7 @@ Engine communication code taken from https://github.com/TheYoBots/Lishogi-Bot by
 ### How to Use
 
 - Fork this repository.
-- Edit only your token in the config.yml file over [here](https://github.com/abhijato/Thebotplayingshogi/blob/97202c46c5687afc76a87c4aa4176a4341f7447b/config.yml#L1).
+- Edit only your token in the config.yml file over [here](https://github.com/the-bot-makers/Lishogi-Bot/blob/master/config.yml#L1).
 - Create a new heroku app.
 - Go to the 'Deploy' tab and click 'Connect to GitHub'.
 - Click on 'search' and then select your fork of this repository.
