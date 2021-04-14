@@ -1,4 +1,4 @@
-# The Bot Playing Shogi
+# lishogi-bot
 
 [![Python Build](https://github.com/The-bot-makers/Lishogi-Bot/actions/workflows/python-build.yml/badge.svg)](https://github.com/The-bot-makers/Lishogi-Bot/actions/workflows/python-build.yml)
 
