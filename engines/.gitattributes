@@ -1,2 +1,0 @@
-shogi.nnue filter=lfs diff=lfs merge=lfs -text
-nn.bin filter=lfs diff=lfs merge=lfs -text
